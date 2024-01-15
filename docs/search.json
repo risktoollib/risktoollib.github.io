@@ -1,16 +1,16 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test website",
+    "section": "",
+    "text": "The University of Alberta School of Business offers a strong Finance program that blends rigorous academics with practical application. We focus on student-directed learning, reflecting real workplace dynamics. We equip our students with enterprise-level financial tools and insights, guided by professors who bring a wealth of experience. The advanced courses in our program focus on the ability to frame real-life problems, use Finance concepts and theory, and solve them using Entreprise-level data science tools.\n\nWe encourage each other to be inquisitive, embrace challenges, and value continuous learning. Mentorship and teamwork are cornerstones of our curriculum, preparing us for diverse roles in finance."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "test website",
-    "section": "",
-    "text": "This is a Quarto website."
   }
 ]
